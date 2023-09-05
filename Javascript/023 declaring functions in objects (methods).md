@@ -1,3 +1,4 @@
+#### from freecodecamp.org
 When defining functions within objects in ES5, we have to use the keyword `function` as follows:
 ```js
 const person = {

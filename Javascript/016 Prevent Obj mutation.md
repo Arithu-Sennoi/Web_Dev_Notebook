@@ -1,3 +1,4 @@
+#### from freecodecamp.org
 Even if one declared an array or and object with const key word, they can still alter it. They just cannot assign the object to a new one. 
 But if you want to make sure your data doesn't change, JavaScript provides a function `Object.freeze` to prevent data mutation. 
 

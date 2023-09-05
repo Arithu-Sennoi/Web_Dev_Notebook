@@ -1,3 +1,4 @@
+#### from freecodecamp.org
 In Javascript, an array can hold different datatypes. 
 ```js
 let myArray = ["someName", 5, 12, 34.12, ["hola", 23]];

@@ -1,3 +1,4 @@
+#### from freecodecamp.org
 ES6 provides a new syntax to create objects, using the class keyword.
 
 In ES5, an object can be created by defining a `constructor` function and using the `new` keyword to instantiate the object.

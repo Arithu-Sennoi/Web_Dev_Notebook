@@ -1,3 +1,4 @@
+#### from freecodecamp.org
 Javascript is not a typed language. Meaning, you do not have to declare a datatype when you create a variable. So when you compare 2 different data types using equality operator, it converts one data type to other. 
 ```js
 1   ==  1  // true
