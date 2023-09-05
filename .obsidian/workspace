@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "1deb281d1e409a32",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7e327cb68c30219",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Stuff/discipline.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "662e69cfc9ea07ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff76ecc2a5ab9956",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b5ec38c9d5adba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f32182199892616b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211
+  },
+  "right": {
+    "id": "2707f905b985d71d",
+    "type": "split",
+    "children": [
+      {
+        "id": "58719e1b886e5a27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d3868d716e3f90d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stuff/discipline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c7e327cb68c30219",
+  "lastOpenFiles": [
+    "notes/note(old).md",
+    "Stuff/discipline.md",
+    "Stuff/note.md",
+    "Untitled.md",
+    "notes/Personality.md",
+    "plan/personalilty.md",
+    "plan/eyes.md",
+    "plan/deep work.md",
+    "plan/deep focus.md",
+    "plan/1 PLAN.md"
+  ]
+}
