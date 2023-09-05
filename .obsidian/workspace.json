@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/getters and setters.md",
+                "file": "Javascript/024 Classes and constructors(less depth).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/getters and setters.md",
+                "file": "Javascript/024 Classes and constructors(less depth).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,8 +157,9 @@
   },
   "active": "2c6a3019b9ab0c85",
   "lastOpenFiles": [
-    "Javascript/024 Classes and constructors(less depth).md",
+    "README.md",
     "Javascript/getters and setters.md",
+    "Javascript/024 Classes and constructors(less depth).md",
     "Javascript/023 declaring functions in objects (methods).md",
     "Javascript/string slicing.md",
     "Javascript/sort array.md",
@@ -182,7 +183,6 @@
     "Javascript/009 javascript arrays.md",
     "Javascript/015 ternary operators.md",
     "Javascript/004 type conversion.md",
-    "Javascript/013 javascript objects.md",
     "Javascript",
     "css",
     "html"
