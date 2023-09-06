@@ -2,9 +2,9 @@
   "choices": [
     {
       "id": "efe6e492-450a-497e-a845-655158ca08da",
-      "name": "quickadd",
+      "name": "git commit and push",
       "type": "Macro",
-      "command": true,
+      "command": false,
       "macroId": "8d5d2d1f-dd72-46f9-8a34-f2170d82b099"
     }
   ],
