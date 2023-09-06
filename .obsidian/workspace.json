@@ -157,6 +157,8 @@
   },
   "active": "2c6a3019b9ab0c85",
   "lastOpenFiles": [
+    "css/001 css.md",
+    "Javascript/025 module script.md",
     "Javascript/024 Classes and constructors(less depth).md",
     "Javascript/023 declaring functions in objects (methods).md",
     "Javascript/022 template literals.md",
@@ -173,7 +175,6 @@
     "Javascript/011 scope and functions.md",
     "Javascript/010 functions.md",
     "Javascript/009 javascript arrays.md",
-    "Javascript/025 module script.md",
     "README.md",
     "Javascript/getters and setters.md",
     "Javascript/string slicing.md",
@@ -182,7 +183,6 @@
     "google.com.md",
     "Javascript/001 variable.md",
     "Javascript/array.prototype.map().md",
-    "Javascript/checked property.md",
     "Javascript",
     "css",
     "html"
