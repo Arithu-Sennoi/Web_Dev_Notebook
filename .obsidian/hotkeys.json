@@ -64,5 +64,14 @@
       "key": "L"
     }
   ],
-  "editor:open-link-in-new-leaf": []
+  "editor:open-link-in-new-leaf": [],
+  "quickadd:choice:efe6e492-450a-497e-a845-655158ca08da": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
 }
