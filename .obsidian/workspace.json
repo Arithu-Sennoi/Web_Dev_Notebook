@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/025 module script.md",
+                "file": "Javascript/026 javascript promises.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/025 module script.md",
+                "file": "Javascript/026 javascript promises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +158,8 @@
   "active": "2c6a3019b9ab0c85",
   "lastOpenFiles": [
     "Javascript/025 module script.md",
+    "Javascript/026 javascript promises.md",
+    "Untitled.md",
     "css/001 css.md",
     "Javascript/024 Classes and constructors(less depth).md",
     "Javascript/023 declaring functions in objects (methods).md",
@@ -181,8 +183,6 @@
     "Javascript/sort array.md",
     "Javascript/spread operator(...).md",
     "google.com.md",
-    "Javascript/001 variable.md",
-    "Javascript/array.prototype.map().md",
     "Javascript",
     "css",
     "html"

@@ -39,6 +39,7 @@ import { add, sub } from './math_functions.js';
 ```
 ./math_functions.js` is the relative path to that file, from current one. 
 
+### import all export functions from another file. 
 #### from freecodecamp
 Suppose you have a file and you wish to import all of its contents into the current file. This can be done with the `import * as` syntax. Here's an example where the contents of a file named `math_functions.js` are imported into a file in the same directory:
 ```js
@@ -49,3 +50,21 @@ The above `import` statement will create an object called `myMathModule`. Thi
 myMathModule.add(2,3);
 myMathModule.subtract(5,3);
 ```
+
+### Export fallback with export default
+From what I understand, when you have a lot of export functions in a js file, you could just put a defalt export function. That means, you put that function as the default export function for that file. There can only be one default function per file. 
+```js
+export default function add(x, y) {
+  return x + y;
+}
+
+export default function(x, y) {
+  return x + y;
+}
+```
+Above are 2 ways to make a default export function. Notice that, in the 2nd example, you did not even have to make a name for that function. 
+Here is the syntax for importing it:
+```js
+import add from "./math_functions.js";
+```
+`add` here is just a variable name we declared, to refer to the default function that we just imported. It can be anything we want. There is not brackets around it. Since a file only has 1 default function, when you import it like this, it only imports default function. 
