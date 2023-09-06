@@ -4,7 +4,7 @@
       "id": "efe6e492-450a-497e-a845-655158ca08da",
       "name": "git commit and push",
       "type": "Macro",
-      "command": false,
+      "command": true,
       "macroId": "8d5d2d1f-dd72-46f9-8a34-f2170d82b099"
     }
   ],
