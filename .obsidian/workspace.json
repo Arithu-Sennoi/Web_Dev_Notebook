@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regular Expressions/005 find more than first match.md",
+                "file": "Regular Expressions/006 match anything with wildcard period.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regular Expressions/005 find more than first match.md",
+                "file": "Regular Expressions/006 match anything with wildcard period.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,8 +167,9 @@
   },
   "active": "7471c823cfabc137",
   "lastOpenFiles": [
-    "README.md",
+    "Regular Expressions/006 match anything with wildcard period.md",
     "Regular Expressions/005 find more than first match.md",
+    "README.md",
     "Regular Expressions/004 extract matches.md",
     "Regular Expressions/003 ignore letter case while matching.md",
     "Regular Expressions/002 using \"or\" operator when matching strings.md",
@@ -193,7 +194,6 @@
     "Javascript/013 javascript objects.md",
     "Javascript/012 type coercion.md",
     "Javascript/011 scope and functions.md",
-    "Javascript/010 functions.md",
     "Javascript",
     "css",
     "html"
