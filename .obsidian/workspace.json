@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/026 javascript promises.md",
+                "file": "Javascript/getters and setters.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/026 javascript promises.md",
+                "file": "Javascript/getters and setters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,16 @@
                 "file": "Untitled.md"
               }
             }
+          },
+          {
+            "id": "67b96a45c2c3adad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -157,9 +167,10 @@
   },
   "active": "2c6a3019b9ab0c85",
   "lastOpenFiles": [
-    "Javascript/025 module script.md",
-    "Javascript/026 javascript promises.md",
     "Untitled.md",
+    "Javascript/getters and setters.md",
+    "Javascript/026 javascript promises.md",
+    "Javascript/025 module script.md",
     "css/001 css.md",
     "Javascript/024 Classes and constructors(less depth).md",
     "Javascript/023 declaring functions in objects (methods).md",
@@ -178,7 +189,6 @@
     "Javascript/010 functions.md",
     "Javascript/009 javascript arrays.md",
     "README.md",
-    "Javascript/getters and setters.md",
     "Javascript/string slicing.md",
     "Javascript/sort array.md",
     "Javascript/spread operator(...).md",
