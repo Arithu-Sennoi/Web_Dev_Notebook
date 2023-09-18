@@ -31,22 +31,6 @@
       "key": "ArrowRight"
     }
   ],
-  "editor:focus-bottom": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
-  "editor:focus-top": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
@@ -72,6 +56,22 @@
         "Shift"
       ],
       "key": "P"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
     }
   ]
 }

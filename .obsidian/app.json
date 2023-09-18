@@ -6,5 +6,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "communityThemeSortOrder": "download",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "vimMode": false
 }
