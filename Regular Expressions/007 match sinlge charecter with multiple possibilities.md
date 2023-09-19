@@ -17,3 +17,13 @@ bogStr.match(bgRegex);
 ```
 
 In order, the four `match` calls would return the values `["big"]`, `["bag"]`, `["bug"]`, and `null`.
+
+You can use "or" operator to match several stuff, but then you would have to type more. By using Charecter classes, you can do it easily. 
+
+```js
+let quoteSample = "Beware of bugs in the above code; I have only proved it correct, not tried it.";
+let vowelRegex = /[aeiou]/ig; 
+let result = quoteSample.match(vowelRegex); 
+console.log(result);
+```
+This code finds all vowels in the string and outputs then in the console. 
