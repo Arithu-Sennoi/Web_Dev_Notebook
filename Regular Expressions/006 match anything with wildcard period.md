@@ -11,3 +11,4 @@ huRegex.test(hugStr);
 ```
 
 Both of these `test` calls would return `true`.
+
