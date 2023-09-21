@@ -4,5 +4,6 @@
   "theme": "obsidian",
   "translucency": false,
   "accentColor": "#057055",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "interfaceFontFamily": ""
 }
