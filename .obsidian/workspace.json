@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/mutable and immutable.md",
+                "file": "Javascript datastructures and algorithms/Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/mutable and immutable.md",
+                "file": "Javascript datastructures and algorithms/Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,8 +167,16 @@
   },
   "active": "7471c823cfabc137",
   "lastOpenFiles": [
-    "Javascript/009 javascript arrays.md",
+    "Javascript datastructures and algorithms/Arrays.md",
+    "Javascript datastructures and algorithms/Objects.md",
+    "Javascript/004 type conversion.md",
     "misc/mutable and immutable.md",
+    "Javascript/012 type coercion.md",
+    "Javascript/001 variable.md",
+    "Javascript/002 math.md",
+    "Javascript/009 javascript arrays.md",
+    "Untitled.md",
+    "Javascript datastructures and algorithms",
     "Regular Expressions from freecodecamp/019 search and replace.md",
     "misc",
     "Regular Expressions from freecodecamp/018 capture groups.md",
@@ -187,13 +195,6 @@
     "Regular Expressions from freecodecamp/008 match numbers and letters within range.md",
     "Regular Expressions from freecodecamp/007 match sinlge charecter with multiple possibilities.md",
     "Regular Expressions from freecodecamp/006 match anything with wildcard period.md",
-    "Regular Expressions from freecodecamp/004 extract matches.md",
-    "Regular Expressions from freecodecamp/003 ignore letter case while matching.md",
-    "Javascript/024 Classes and constructors(less depth).md",
-    "Javascript/023 declaring functions in objects (methods).md",
-    "html/001 HTML.md",
-    "README.md",
-    "Regular Expressions from freecodecamp/001 Test Method.md",
     "Regular Expressions from freecodecamp",
     "Javascript",
     "css",
