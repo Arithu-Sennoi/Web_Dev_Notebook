@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regular Expressions from freecodecamp/019 search and replace.md",
+                "file": "misc/mutable and immutable.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regular Expressions from freecodecamp/019 search and replace.md",
+                "file": "misc/mutable and immutable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,8 +167,11 @@
   },
   "active": "7471c823cfabc137",
   "lastOpenFiles": [
-    "Regular Expressions from freecodecamp/018 capture groups.md",
+    "Javascript/009 javascript arrays.md",
+    "misc/mutable and immutable.md",
     "Regular Expressions from freecodecamp/019 search and replace.md",
+    "misc",
+    "Regular Expressions from freecodecamp/018 capture groups.md",
     "Regular Expressions from freecodecamp/014 white spaces.md",
     "Regular Expressions from freecodecamp/015 check for all or none(for a charecter that may or may not exist).md",
     "Regular Expressions from freecodecamp/016 lookaheads.md",
@@ -191,9 +194,7 @@
     "html/001 HTML.md",
     "README.md",
     "Regular Expressions from freecodecamp/001 Test Method.md",
-    "Javascript/getters and setters.md",
     "Regular Expressions from freecodecamp",
-    "Untitled.md",
     "Javascript",
     "css",
     "html"
