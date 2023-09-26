@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript datastructures and algorithms/Objects.md",
+                "file": "Javascript/004 type conversion.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript datastructures and algorithms/Objects.md",
+                "file": "Javascript/004 type conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,14 +167,15 @@
   },
   "active": "7471c823cfabc137",
   "lastOpenFiles": [
+    "Javascript/009 javascript arrays.md",
     "Javascript datastructures and algorithms/Arrays.md",
     "Javascript datastructures and algorithms/Objects.md",
+    "Javascript/014 objects details.md",
     "Javascript/004 type conversion.md",
     "misc/mutable and immutable.md",
     "Javascript/012 type coercion.md",
     "Javascript/001 variable.md",
     "Javascript/002 math.md",
-    "Javascript/009 javascript arrays.md",
     "Untitled.md",
     "Javascript datastructures and algorithms",
     "Regular Expressions from freecodecamp/019 search and replace.md",
@@ -194,7 +195,6 @@
     "Regular Expressions from freecodecamp/009 match single characters not specified.md",
     "Regular Expressions from freecodecamp/008 match numbers and letters within range.md",
     "Regular Expressions from freecodecamp/007 match sinlge charecter with multiple possibilities.md",
-    "Regular Expressions from freecodecamp/006 match anything with wildcard period.md",
     "Regular Expressions from freecodecamp",
     "Javascript",
     "css",
