@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/004 type conversion.md",
+                "file": "Javascript/005 random number function.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/004 type conversion.md",
+                "file": "Javascript/005 random number function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -167,11 +169,11 @@
   },
   "active": "7471c823cfabc137",
   "lastOpenFiles": [
+    "Javascript/004 type conversion.md",
     "Javascript/009 javascript arrays.md",
     "Javascript datastructures and algorithms/Arrays.md",
     "Javascript datastructures and algorithms/Objects.md",
     "Javascript/014 objects details.md",
-    "Javascript/004 type conversion.md",
     "misc/mutable and immutable.md",
     "Javascript/012 type coercion.md",
     "Javascript/001 variable.md",
